@@ -4,7 +4,6 @@ import { render, screen } from '@testing-library/react';
 import userEvent from '@testing-library/user-event';
 
 import Show from './../Show';
-import episode from "../Episode";
 
 const testShow = {
     name: "test show",
